@@ -8,7 +8,9 @@ sites:
   - name: HarifSport
     url: https://harifsport.com
   - name: BetBuq
-    url: https://www.betbuq.com/
+    url: https://www.betbuq.com
+  - name: GGBet360
+    url: https://ggbet360.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
