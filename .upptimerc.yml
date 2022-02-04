@@ -5,15 +5,23 @@ repo: upptime # The name of this repository
 sites:
   - name: Playlogiq
     url: https://playlogiq.io
+  - name: BackOffice Playlogiq
+    url: https://backoffice.playlogiq.com
   - name: HarifSport
     url: https://harifsport.com
   - name: BetBuq
     url: https://www.betbuq.com
   - name: GGBet360
     url: https://ggbet360.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: Grinta365
+    url: https://www.grinta365.com
+  - name: DimaBet
+    url: https://dimabet.com
+  - name: TanitBet
+    url: https://tanitbet.com
+  - name: TrustBet
+    url: https://tanitbet.com/
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
