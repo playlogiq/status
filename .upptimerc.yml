@@ -20,7 +20,11 @@ sites:
   - name: TanitBet
     url: https://tanitbet.com
   - name: TrustBet
-    url: https://tanitbet.com/
+    url: https://trustbet.bet
+  - name: BetFire
+    url: https://betfire.com
+  - name: 2xsport
+    url: https://2xsport.com
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
