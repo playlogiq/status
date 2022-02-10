@@ -22,9 +22,9 @@
     "url": "https://backoffice.playlogiq.com",
     "icon": "https://favicons.githubusercontent.com/backoffice.playlogiq.com",
     "slug": "back-office-playlogiq",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 914,
     "timeMonth": 914,
     "timeYear": 914,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-10": 0
+    }
   },
   {
     "name": "HarifSport",
