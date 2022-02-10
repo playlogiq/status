@@ -22,19 +22,19 @@
     "url": "https://backoffice.playlogiq.com",
     "icon": "https://favicons.githubusercontent.com/backoffice.playlogiq.com",
     "slug": "back-office-playlogiq",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 981,
-    "timeDay": 1263,
-    "timeWeek": 981,
-    "timeMonth": 981,
-    "timeYear": 981,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 956,
+    "timeDay": 1041,
+    "timeWeek": 956,
+    "timeMonth": 956,
+    "timeYear": 956,
     "dailyMinutesDown": {
-      "2022-02-10": 8
+      "2022-02-10": 0
     }
   },
   {
