@@ -4,10 +4,10 @@
     "url": "https://playlogiq.io",
     "icon": "https://favicons.githubusercontent.com/playlogiq.io",
     "slug": "playlogiq",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 881,
@@ -15,7 +15,9 @@
     "timeWeek": 859,
     "timeMonth": 848,
     "timeYear": 881,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-20": 1
+    }
   },
   {
     "name": "BackOffice Playlogiq",
@@ -30,7 +32,7 @@
     "uptimeYear": "99.68%",
     "time": 991,
     "timeDay": 1214,
-    "timeWeek": 916,
+    "timeWeek": 943,
     "timeMonth": 788,
     "timeYear": 991,
     "dailyMinutesDown": {
