@@ -22,11 +22,11 @@
     "url": "https://backoffice.playlogiq.com",
     "icon": "https://favicons.githubusercontent.com/backoffice.playlogiq.com",
     "slug": "back-office-playlogiq",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.73%",
     "time": 975,
     "timeDay": 807,
@@ -34,6 +34,7 @@
     "timeMonth": 836,
     "timeYear": 975,
     "dailyMinutesDown": {
+      "2022-03-29": 6,
       "2022-03-19": 21,
       "2022-03-12": 30,
       "2022-02-23": 27,
@@ -48,36 +49,39 @@
     "url": "https://harifsport.com",
     "icon": "https://favicons.githubusercontent.com/harifsport.com",
     "slug": "harif-sport",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 559,
     "timeDay": 617,
     "timeWeek": 591,
     "timeMonth": 588,
     "timeYear": 559,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-29": 5
+    }
   },
   {
     "name": "BetBuq",
     "url": "https://www.betbuq.com",
     "icon": "https://favicons.githubusercontent.com/www.betbuq.com",
     "slug": "bet-buq",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 559,
-    "timeDay": 417,
+    "timeDay": 611,
     "timeWeek": 522,
     "timeMonth": 567,
     "timeYear": 559,
     "dailyMinutesDown": {
+      "2022-03-29": 3,
       "2022-03-28": 18
     }
   },
@@ -86,10 +90,10 @@
     "url": "https://ggbet360.com",
     "icon": "https://favicons.githubusercontent.com/ggbet360.com",
     "slug": "gg-bet360",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 665,
@@ -97,16 +101,18 @@
     "timeWeek": 580,
     "timeMonth": 762,
     "timeYear": 665,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-29": 2
+    }
   },
   {
     "name": "Grinta365",
     "url": "https://www.grinta365.com",
     "icon": "https://favicons.githubusercontent.com/www.grinta365.com",
     "slug": "grinta365",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -115,7 +121,9 @@
     "timeWeek": 572,
     "timeMonth": 573,
     "timeYear": 568,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-29": 0
+    }
   },
   {
     "name": "DimaBet",
