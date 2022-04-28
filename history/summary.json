@@ -25,19 +25,19 @@
     "url": "https://playlogiq.poker",
     "icon": "https://favicons.githubusercontent.com/playlogiq.poker",
     "slug": "playlogiq-poker",
-    "status": "down",
-    "uptime": "77.88%",
-    "uptimeDay": "77.88%",
-    "uptimeWeek": "77.88%",
-    "uptimeMonth": "77.88%",
-    "uptimeYear": "77.88%",
-    "time": 625,
-    "timeDay": 625,
-    "timeWeek": 625,
-    "timeMonth": 625,
-    "timeYear": 625,
+    "status": "up",
+    "uptime": "69.56%",
+    "uptimeDay": "69.56%",
+    "uptimeWeek": "69.56%",
+    "uptimeMonth": "69.56%",
+    "uptimeYear": "69.56%",
+    "time": 656,
+    "timeDay": 656,
+    "timeWeek": 656,
+    "timeMonth": 656,
+    "timeYear": 656,
     "dailyMinutesDown": {
-      "2022-04-28": 15
+      "2022-04-28": 24
     }
   },
   {
