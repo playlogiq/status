@@ -4,7 +4,11 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Playlogiq
-    url: https://playlogiq.io
+    url: https://playlogiq.com
+  - name: Playlogiq Poker
+    url: https://playlogiq.poker
+  - name: Feedmaker.live  
+    url: https://feedmaker.live
   - name: BackOffice Playlogiq
     url: https://backoffice.playlogiq.com
   - name: HarifSport
