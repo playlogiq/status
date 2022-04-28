@@ -4,9 +4,9 @@
     "url": "https://playlogiq.io",
     "icon": "https://favicons.githubusercontent.com/playlogiq.io",
     "slug": "playlogiq",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 1151,
     "timeYear": 967,
     "dailyMinutesDown": {
+      "2022-04-28": 0,
       "2022-04-08": 17
     }
   },
@@ -25,11 +26,11 @@
     "icon": "https://favicons.githubusercontent.com/backoffice.playlogiq.com",
     "slug": "back-office-playlogiq",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.12%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.51%",
     "time": 886,
     "timeDay": 671,
     "timeWeek": 649,
